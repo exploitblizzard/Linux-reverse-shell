@@ -7,4 +7,4 @@ A simple and stable linux reverse shell written in Golang
 
 
 ## Start the listener
-> $ nc -lvnp 5555
+> $ nc -lvnp <your_port>
